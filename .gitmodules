@@ -1,0 +1,9 @@
+[submodule "modules/03_ansible"]
+	path = modules/03_ansible
+	url = https://github.com/mihsta/ansible_lab
+[submodule "modules\\08_docker"]
+	path = modules\\08_docker
+	url = https://github.com/mihsta/devopsschool
+[submodule "modules/02_git"]
+	path = modules/02_git
+	url = https://github.com/mihsta/devops-school-git
