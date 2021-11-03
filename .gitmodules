@@ -7,3 +7,6 @@
 [submodule "modules/02_git"]
 	path = modules/02_git
 	url = https://github.com/mihsta/devops-school-git
+[submodule "diplom"]
+	path = diplom
+	url = https://github.com/mihsta/devops-diplom.git
